@@ -4,7 +4,6 @@ Please read the assignment carefully before proceeding. You can find the assignm
 In case if you have any doubts regarding the assignment please make sure to clarify them upfront.
 
 ### How to use this repo
-* `git clone https://github.com/Ranjith-Suranga/connect-four-game-assignment.git`
 * Open the `pom.xml` via IntelliJ IDEA
 * Make sure to the open it as a project, if prompt
 * Reload the `pom.xml` file via **Maven Tool Window**
